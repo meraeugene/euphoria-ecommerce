@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Roboto";
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/*hero swiper  */
+
+.mySwiper-hero .swiper-pagination {
+  top: initial !important;
+  bottom: 20px !important;
+  width: 5% !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+
+/* new arrival swiper */
+
+.mySwiper-newArrival .swiper-button-next {
+  background-image: url(../public/images/right.svg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.mySwiper-newArrival .swiper-button-next::after {
+  display: none;
+}
+
+.mySwiper-newArrival .swiper-button-prev {
+  background-image: url(../public/images/left.svg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.mySwiper-newArrival .swiper-button-prev::after {
+  display: none;
+}
+
+/* review swiper */
+
+.mySwiper-review .swiper-pagination {
+  top: initial !important;
+  width: 5% !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 16px;
+}
+
+.grid__container {
+  display: grid;
+  grid-template-areas: "image1 image2 image3";
+  gap: 1em;
+  height: 250px;
+}
+
+.grid__container-image1 {
+  grid-area: image1;
+}
+
+.grid__container-image2 {
+  grid-area: image2;
+}
+
+.grid__container-image3 {
+  grid-area: image3;
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Hoodies & Sweetshirt",
+    "image": "/images/womenCategory/hoodies.png"
+  },
+  {
+    "name": "Coats & Parkas",
+    "image": "/images/womenCategory/coats.png"
+  },
+  {
+    "name": "Tees & T-Shirt",
+    "image": "/images/womenCategory/tees.png"
+  },
+  {
+    "name": "Boxers",
+    "image": "/images/womenCategory/boxers.png"
+  }
+]

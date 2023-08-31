@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shirts",
+    "image": "/images/menCategory/shirts.png"
+  },
+  {
+    "name": "Printed T-Shirts",
+    "image": "/images/menCategory/printed.png"
+  },
+  {
+    "name": "Plain T-Shirt",
+    "image": "/images/menCategory/plain.png"
+  },
+  {
+    "name": "Polo T-Shirt",
+    "image": "/images/menCategory/polo.png"
+  },
+  {
+    "name": "Hoodies & Sweetshirt",
+    "image": "/images/menCategory/hoodies.png"
+  },
+  {
+    "name": "Jeans",
+    "image": "/images/menCategory/jeans.png"
+  },
+  {
+    "name": "Activewear",
+    "image": "/images/menCategory/activewear.png"
+  },
+  {
+    "name": "Boxers",
+    "image": "/images/menCategory/boxers.png"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Black Sweatshirt...",
+    "image": "/images/menCategory/shirts.png",
+    "price": "123.0"
+  },
+  {
+    "name": "White T-shirt",
+    "image": "/images/productsList/white.png",
+    "price": "11.0"
+  },
+  {
+    "name": "Levender Hoodie with ....",
+    "image": "/images/productsList/purple.png",
+    "price": "119.0"
+  },
+  {
+    "name": "Leaves Pattern White...",
+    "image": "/images/productsList/yellow.png",
+    "price": "77.0"
+  },
+  {
+    "name": "White Graphic Crop Top",
+    "image": "/images/productsList/shock.png",
+    "price": "29.0"
+  },
+  {
+    "name": "Black Shorts",
+    "image": "/images/productsList/orange.png",
+    "price": "37.0"
+  },
+  {
+    "name": "Barboreal Gray Sweats...",
+    "image": "/images/productsList/grey.png",
+    "price": "77.0"
+  },
+  {
+    "name": "Yellow Sweatshirt",
+    "image": "/images/productsList/lightyellow.png",
+    "price": "29.0"
+  },
+  {
+    "name": "Flower Pattern Black C...",
+    "image": "/images/productsList/printed.png",
+    "price": "37.0"
+  },
+  {
+    "name": "I Don’t Graphic T-shirt ",
+    "image": "/images/productsList/shirt.png",
+    "price": "77.0"
+  },
+  {
+    "name": "Blue Flower Print Crop ....",
+    "image": "/images/productsList/sky.png",
+    "price": "29.0"
+  },
+  {
+    "name": "line Pattern Black H...",
+    "image": "/images/productsList/blackshirt.png",
+    "price": "37.0"
+  }
+]

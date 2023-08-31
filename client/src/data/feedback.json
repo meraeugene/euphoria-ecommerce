@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Andrew Villalon",
+    "image": "/images/reviews/andrew.jpg",
+    "desc": "Andrew Villalon here, and I'm thrilled with this ecommerce website. The diverse range of men's shirts, coupled with the intuitive interface, has revolutionized my shopping experience.",
+    "reviewStar": {
+      "star": "/images/reviews/star.svg",
+      "star_half": "/images/reviews/star_half.svg",
+      "star_outline": "/images/reviews/star_outline.svg"
+    }
+  },
+  {
+    "name": "Althea",
+    "image": "/images/reviews/althea.jpg",
+    "desc": "Althea speaking – I'm beyond impressed with this ecommerce platform. The collection of men's shirts is outstanding, and the user-friendly design makes shopping an absolute delight.",
+    "reviewStar": {
+      "star": "/images/reviews/star.svg",
+      "star_half": "/images/reviews/star_half.svg",
+      "star_outline": "/images/reviews/star_outline.svg"
+    }
+  },
+  {
+    "name": "User",
+    "image": "/images/reviews/andrew.jpg",
+    "desc": "User here, and I'm hooked on this ecommerce gem. The men's shirts selection is top-notch, and the seamless browsing has truly transformed how I shop online.",
+    "reviewStar": {
+      "star": "/images/reviews/star.svg",
+      "star_half": "/images/reviews/star_half.svg",
+      "star_outline": "/images/reviews/star_outline.svg"
+    }
+  },
+  {
+    "name": "User",
+    "image": "/images/reviews/althea.jpg",
+    "desc": "User at your service! This ecommerce site has blown me away. The men's shirts variety is exceptional, and the platform's simplicity has made shopping a breeze.",
+    "reviewStar": {
+      "star": "/images/reviews/star.svg",
+      "star_half": "/images/reviews/star_half.svg",
+      "star_outline": "/images/reviews/star_outline.svg"
+    }
+  },
+  {
+    "name": "User",
+    "image": "/images/reviews/andrew.jpg",
+    "desc": "Hey, User here! I'm seriously impressed with this ecommerce website. The men's shirts collection is on point, and the user experience is next level. ",
+    "reviewStar": {
+      "star": "/images/reviews/star.svg",
+      "star_half": "/images/reviews/star_half.svg",
+      "star_outline": "/images/reviews/star_outline.svg"
+    }
+  },
+  {
+    "name": "User",
+    "image": "/images/reviews/althea.jpg",
+    "desc": "Greetings, it's User! I've found my go-to for online shopping. The range of men's shirts is fantastic, and the website's ease of use has made my shopping sprees enjoyable. ",
+    "reviewStar": {
+      "star": "/images/reviews/star.svg",
+      "star_half": "/images/reviews/star_half.svg",
+      "star_outline": "/images/reviews/star_outline.svg"
+    }
+  }
+]
